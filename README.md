@@ -417,7 +417,7 @@ The project successfully demonstrates practical embedded systems integration inv
 
 # Author
 
-Shubham Baniwal
+Shubham Baniwal 
 B.Tech Electronics & Communication Engineering  
 Delhi Technological University (DTU)
 
